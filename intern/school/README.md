@@ -14,5 +14,5 @@
 <img src = "https://github.com/joominchul/school_notice/blob/master/intern/school/%EB%A9%94%EC%9D%B8%20%ED%99%88%ED%99%94%EB%A9%B4.jpg?raw=true" width="50%"></img>
 
 다 확인했으면 상단의 뒤로 가기 버튼 클릭, 메인 홈 화면으로 이동.
-<img src = "https://github.com/joominchul/school_notice/blob/master/intern/school/%EB%A9%94%EC%9D%B8%20%ED%99%88%ED%99%94%EB%A9%B4.jpg?raw=true" width="50%"></img>
+<img src = "https://github.com/joominchul/school_notice/blob/master/intern/school/%EA%B0%95%EC%9B%90%EB%8C%80%20%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg?raw=true" width="50%"></img>
 
