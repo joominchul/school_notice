@@ -16,3 +16,8 @@
 다 확인했으면 상단의 뒤로 가기 버튼 클릭, 메인 홈 화면으로 이동.
 <img src = "https://github.com/joominchul/school_notice/blob/master/intern/school/%EA%B0%95%EC%9B%90%EB%8C%80%20%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg?raw=true" width="50%"></img>
 
+프로젝트 결과 : 편리하게 관련 공지사항들을 확인 가능.
+
+기대 효과 : 플러터를 사용한 다양한 인터넷 앱 개발.
+
+
